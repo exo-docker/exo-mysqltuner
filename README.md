@@ -1,6 +1,6 @@
 # MySQL Tuner
 
-Alpine container for [MySQLTuner](https://github.com/major/MySQLTuner-perl).
+Docker container for [MySQLTuner](https://github.com/major/MySQLTuner-perl).
 
 ## Usage
 
